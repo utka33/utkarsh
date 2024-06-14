@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "Enter your id"
-#define BLYNK_TEMPLATE_NAME "Smart Agriculture System"
-#define BLYNK_AUTH_TOKEN "Enter your token "
+#define BLYNK_TEMPLATE_ID "Enter your id."
+#define BLYNK_TEMPLATE_NAME "Smart Agriculture System."
+#define BLYNK_AUTH_TOKEN "Enter your token."
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
